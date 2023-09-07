@@ -21,5 +21,5 @@ This would need nand-aid in order to fix it. You can follow [V10lator's guide](h
 
 
 
-Thanks to V10lator and their [nand-aid guide](https://gbatemp.net/threads/using-nand-aid-to-repair-a-broken-emmc-fix-160-0103-system-memory-error.636361/) for most of the detailed info
+Thanks to V10lator and their (and its respective contributors)[nand-aid guide](https://gbatemp.net/threads/using-nand-aid-to-repair-a-broken-emmc-fix-160-0103-system-memory-error.636361/) for most of the detailed info
 
