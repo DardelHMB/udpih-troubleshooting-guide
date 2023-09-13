@@ -4,7 +4,7 @@ recovery_menu does not output the logs in order. We need to read a binary file t
 
 Along with the logs, you should also have `meta.bin`. Open this file with a hex editor.
 
-[image](docs/image/image.png)
+[image](https://github.com/DardelHMB/udpih-troubleshooting-guide/blob/main/docs/image/image.png)
 
 You should see something like this. We need to convert the hex number to decimal and then mod by 100 ~~maths uggghhhhh~~
 
